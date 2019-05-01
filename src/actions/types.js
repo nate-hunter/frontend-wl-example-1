@@ -1,0 +1,2 @@
+export const FETCH_BOOKINGS = 'FETCH_BOOKINGS';
+export const NEW_BOOKING = 'NEW_BOOKING';
